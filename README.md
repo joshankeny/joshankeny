@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joshankeny
-- 👀 I’m interested in R Statistical Coding, Website Development, Fisheries, Natural Resources
+- 👀 I’m interested in R Statistical Coding, Fisheries, Natural Resources, Website Development
 - 🌱 I’m currently learning Shiny Webapp Development, Fisheries Science and Website Development
 
 <!---
